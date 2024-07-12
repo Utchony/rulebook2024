@@ -15,7 +15,7 @@ wiekuiste konflikty bywają utajone i subtelne, ale bywają także jawne i
 widowiskowe.*
 
 Niniejszy zestaw zasad zawiera wszystkie zasady potrzebne do zagrania w grę Wampir: Wiekuisty konflikt.
-W celu ułatwienia nauki zasad, część z nich jest prezentowana w sekcjach „Zasady zaawansowane”. Mimo że stanowią one nieodłączną część gry, zalecamy nowym graczom ich pominięcie w trakcie nauki podstaw gry.
+W celu ułatwienia nauki zasad, część z nich prezentujemy w sekcjach „Zasady zaawansowane”. Mimo że stanowią one nieodłączną część gry, zalecamy nowym graczom ich pominięcie w trakcie nauki podstaw gry.
 
 ## **Cel gry**
 
@@ -50,7 +50,7 @@ kwadratowe ilustracje, a rewersy są w kolorze zielonego marmuru.
 ![](bin/media/image2.png)
 
 Krypta i biblioteka tworzą dwa niezależne stosy, z których karty krypty i karty biblioteki 
-są dobierane podczas rozgrywki (patrz Przygotowanie rozgrywki, Dobieranie kart i Faza wpływów) Dobierane karty biblioteki
+są dobierane podczas rozgrywki (patrz Przygotowanie rozgrywki, Dobieranie kart i Faza wpływów). Dobierane karty biblioteki
 są przenoszone na rękę ich właściciela. Dobierane karty krypty są przenoszone do rejonu niekontrolowanego właściciela (patrz Obszar gry).
 
 > **BUDOWA TALII**\
@@ -68,7 +68,7 @@ są przenoszone na rękę ich właściciela. Dobierane karty krypty są przenosz
 **Znaczniki:** Znaczniki, *counters*, stanowią nieodłączną część rozgrywki. Każdy z Matuzalemów
 potrzebuje około 40 znaczników: 30 do swojej początkowej puli oraz dodatkowych znaczników,
 które stanowią bank krwi. Znaczniki wykorzystywane do oznaczania puli, krwi
-i życia nie różnią się, ale są nazywane inaczej, w zależności o tego, czy znajdują się w Twojej
+i życia nie różnią się, ale nazywane są inaczej, w zależności o tego, czy znajdują się w Twojej
 puli, na wampirach (krew) lub na sprzymierzeńcach (życie). Na przykład znacznik
 przeniesiony z puli na wampira staje się krwią. Podobnie
 krew ukradziona z wampira przez sprzymierzeńca staje się życiem. Kiedy palisz,
@@ -86,7 +86,7 @@ przenoszenia znaczników z miejsca na miejsce.
 
 
 
-** Przewaga:** Przewaga, *Edge*, symbolizuje, że dzięki swoim podwładnym tymczasowo
+**Przewaga:** Przewaga, *Edge*, symbolizuje, że dzięki swoim podwładnym tymczasowo
 górujesz nad pozostałymi Matuzalemami. Wybierz coś,
 co będzie reprezentowało Przewagę. Może to być dowolny mały, wyróżniający się przedmiot, na przykład
 figurka, błyskotka lub rękawiczka.
@@ -97,7 +97,7 @@ figurka, błyskotka lub rękawiczka.
 
 > **KOLEJNOŚĆ TURY**\
 > \
-> Tury następują zgodnie z ruchem wskazówek zegara wokół obszaru gry, zaczynając od pierwszego Matuzalema. Tura każdego Matuzalema składa się następujących po sobie pięciu faz:
+> Tury następują zgodnie z ruchem wskazówek zegara wokół obszaru gry, zaczynając od pierwszego Matuzalema. Tura każdego Matuzalema składa się z następujących kolejno po sobie pięciu faz:
 > 1. **Faza odkręcania**\
 > Odkręć, *unlock*, wszystkie swoje karty i rozpatrz wszystkie aktywne **spory**, *contests*. Jeśli masz **Przewagę**, to możesz zyskać 1 znacznik puli z **banku krwi**, *blood bank*.
 > 2. **Faza mistrza**\
@@ -124,10 +124,10 @@ każdej z nich.
 
 > **ZASADY ZAAWANSOWANE**\
 > Inny Matuzalem może prowadzić spór o kontrolę nad wampirem (patrz [**Sporne karty**](https://www.vekn.net/rulebook/4-detailed-turn-sequence#Contested-cards)), 
-> co oznacza, że Matuzalemowie walczą o kontrolę nad nim.
+> co oznacza, że Matuzalemowie ci walczą o kontrolę nad nim.
 
 
-** Potencjał krwi:** Liczba w czerwonym kółku w prawym dolnym
+**Potencjał krwi:** Liczba w czerwonym kółku w prawym dolnym
 rogu karty oznacza potencjał, *capacity*, wampira.
 
 
@@ -151,7 +151,7 @@ w fazie wpływów liczba ta jest równa potencjałowi krwi wampira lub go
 przekracza, to możesz tego wampira ujawnić i umieścić w rejonie gotowych.
 Zachowuje znaczniki puli wykorzystane jako wpływy na tę kartę,
 służące jako krew wampira, a wszelkie znaczniki krwi przekraczające potencjał wampira spływają
-do banku krwi (patrz **Faza wpływów**, (https://www.vekn.net/rulebook/4-detailed-turn-sequence#influence-phase)).
+do banku krwi (patrz [**Faza wpływów**](https://www.vekn.net/rulebook/4-detailed-turn-sequence#influence-phase)).
 
 **Klan:** Każdy wampir należy do klanu, *clan*, oznaczonego symbolem znajdującym się
 w górnej części paska atrybutów (marmurkowy pasek znajdujący się po lewej stronie
@@ -291,7 +291,7 @@ Niektórych kart, takich jak karty akcji, nie rozpatruje się od razu. W tym prz
 
 > **ZASADY ZAAWANSOWANE**\
 > Niektóre efekty mogą anulować kartę „podczas jej zagrywania”. Efekty te, podobnie
-> jak [**efekty przebudzenia**, *wake effects*](https://www.vekn.net/rulebook/8-glossaries#wake),
+> jak [**efekty przebudzenia**](https://www.vekn.net/rulebook/8-glossaries#wake), *wake effects*,
 > stanowią wyłączne efekty dozwolone w okresie czasu „podczas zagrywania”
 > innej karty. Nawet dobieranie za karty następuje po tym okresie
 > czasu.
@@ -552,7 +552,7 @@ gdy palony jest ostatni znacznik ich życia lub gdy palony jest podwładny, na k
 
 **Karty akcji politycznych:** Kartę akcji politycznej, *political action card*, można zagrać, aby
 zwołać referendum jako akcję lub spalić podczas
-referendum [**aby zyskać głos**, *gain a vote*](https://www.vekn.net/rulebook/4-detailed-turn-sequence#political-action-cards).
+referendum [**aby zyskać głos**](https://www.vekn.net/rulebook/4-detailed-turn-sequence#political-action-cards), *gain a vote*.
 Karty akcji politycznych mogą zagrywać tylko wampiry.
 Karty akcji politycznych można rozpoznać po symbolu akcji politycznej.
 
@@ -812,7 +812,7 @@ Jeśli posiadasz Przewagę, to możesz zyskać 1 znacznik puli z banku krwi.
 > w pozostałej części rozgrywki traci korzyści płynące z tego tytułu.
 >
 
-## **2. FAZA MISTRZA
+## **2. FAZA MISTRZA**
 
 W swojej fazie mistrza otrzymujesz akcje fazy mistrza. Akcja
 fazy mistrza reprezentuje Twoje osobiste działanie podczas tury jako
@@ -1004,7 +1004,7 @@ do banku krwi.
 
 ### **Ekwipowanie**
 
-- **Kto może się ekwipować:** Dowolny gotowy podwładny.
+- **Kto może się ekwipować:** Każdy gotowy podwładny.
 - **Koszt:** Zgodnie z treścią karty sprzętu w przypadku zagrywania tej karty ze
 swojej ręki. Bez kosztu w przypadku ekwipowania, *equip*, w sprzęt od innego kontrolowanego przez siebie podwładnego.
 - **Domyślny cel:** Brak. Akcja nieukierunkowana.
@@ -1183,7 +1183,7 @@ standardowo wchodzą w walkę.
 
 ### **Karta akcji (lub karta w grze)**
 
-- **Kto może domyślnie wykonać akcję:** Dowolny gotowy sługa. Podwładny
+- **Kto może domyślnie wykonać akcję:** Każdy gotowy sługa. Podwładny
 nie może wykonać akcji z wykorzystaniem tej samej karty akcji z ręki lub w grze
 więcej niż raz na turę, nawet jeśli się odkręci.
 - **Koszt:** Zgodnie z treścią danej karty.
@@ -1259,9 +1259,9 @@ Niektóre karty zagrywane są „podczas deklarowania akcji” – karty te musz
 **WYJĄTEK:** Wszelkie decyzje podejmowane dla celów referendum nie są
 deklarowane dopóki akcja nie będzie udana (patrz [**Akcja polityczna**](https://www.vekn.net/rulebook#the-political-action)).
 
-W swojej fazie podwładnych Sylwia decyduje, że jeden z jej odkręconych podwładnych,
+*W swojej fazie podwładnych Sylwia decyduje, że jeden z jej odkręconych podwładnych,
 Belinde, podejmie akcję drenowania jej ofiary, Alicji. Sylwia
-przekręca Belindę i mówi: „Belinde drenuje Alicję za 1 (czyli 1 znacznik puli).”
+przekręca Belindę i mówi: „Belinde drenuje Alicję za 1 (czyli 1 znacznik puli).”*
 
 *Po rozpatrzeniu tej akcji (jako udanej lub nieudanej), Sylwia decyduje, że
 inny jej odkręcony podwładny, Wdowa, The Dowager, pozyska sprzymierzeńca,
@@ -1290,8 +1290,7 @@ ofiara ma możliwość zablokowania jako pierwsza.
 Podwładny może podejmować dowolną liczbę prób zablokowania, o ile
 nie blokuje już inny podwładny.
 
-Jeśli próba zablokowania się nie uda, to kolejna może być podjęta
-przez blokującego Matuzalema.
+Jeśli próba zablokowania się nie uda, to blokujący Matuzalem może podjąć kolejną.
 
 Decyzja Matuzalema o niepodejmowaniu dalszych prób zablokowania
 stanowi decyzję nieodwołalną.
@@ -1299,7 +1298,7 @@ W przypadku zmiany celu akcji (np. przekierowania akcji drenowania), ponownie wz
 
 Dla przypomnienia, w przypadku kart opisujących akcję, która jest zazwyczaj
 ukierunkowana na innego Matuzalema, tekst karty zwykle zawiera
-symbol (D) jako przypomnienie, że akcja ta jest zazwyczaj ukierunkowana.
+symbol (D) jako przypomnienie, że akcja ta jest zazwyczaj ukierunkowana, *directed*.
 
 
 
@@ -1311,9 +1310,9 @@ Pamiętaj, że akcje polityczne są zawsze nieukierunkowane.
 
 *Akcja drenowania Alicji przez Belindę jest ukierunkowana na Alicję, więc tylko gotowi
 odkręceni podwładni Alicji mogą próbować zablokować. Jeśli próba zablokowania się nie uda,
-to można podjąć kolejną.
+to można podjąć kolejną.*
 
-Akcja pozyskania Przybłędy spod mostu, Underbridge Stray (sprzymierzeńca) przez Wdowę, The Dowager. nie jest
+*Akcja pozyskania Przybłędy spod mostu, Underbridge Stray (sprzymierzeńca) przez Wdowę, The Dowager, nie jest
 ukierunkowana na innego Matuzalema, czyli jest nieukierunkowana. Może ona być blokowana
 przez gotowych odkręconych podwładnych ofiary Sylwii lub drapieżcy Sylwii. Jeśli
 pierwsza próba jej ofiary się nie uda, to może ona podjąć kolejną i następne, dopóki jej
@@ -1430,7 +1429,7 @@ niezależnie od tego, czy akcja będzie udana.
 Polityka i dyplomacja są równie kluczowe dla wampirów jak polowanie i
 pożywianie się. Podobnie jak społeczność śmiertelników, społeczność Spokrewnionych posiada swoje prawa, doktryny
 i zwyczaje. Polityka odgrywa rolę gdy wampir wykonuje akcję
-polityczną oraz gdy zwoływane są krwawe łowy, *blood hunt* (patrz **Krwawe łowy**](https://www.vekn.net/rulebook#the-blood-hunt)).
+polityczną oraz gdy zwoływane są krwawe łowy, *blood hunt* (patrz [**Krwawe łowy**](https://www.vekn.net/rulebook#the-blood-hunt)).
 
 **Akcja polityczna**
 
@@ -1608,9 +1607,7 @@ bliskim zasięgu.
 *Ayelech właśnie zablokowała Colette i rozpoczyna się walka. Ayelech ma .44
 Magnum, broń umożliwiającą jej zadanie ciosu za 2 obrażenia na bliskim i dalekim
 zasięgu, oraz zapewniającą jej opcjonalny manewr. Colette, jako działający
-podwładny, deklaruje, że nie*
-
-*manewruje. Ayelech używa manewru z broni, aby przejść na daleki zasięg,
+podwładny, deklaruje, że nie manewruje. Ayelech używa manewru z broni, aby przejść na daleki zasięg,
 gdzie nie może zranić jej cios ręką Colette. Colette zagrywa
 kartę manewru, aby wrócić na bliski zasięg. Ayelech ma jednak następną
 kartę manewru, którą zagrywa, aby wrócić na daleki zasięg.
@@ -1869,7 +1866,7 @@ krew może być użyta do zagojenia obrażeń, nawet jeśli obrażenia te są za
 jednocześnie. Jeśli ukradziona krew powoduje, że liczba znaczników krwi wampira zadającego cios
 przekracza jego potencjał, to nadmiar ten natychmiast spływa do banku krwi.
 
-*Chrysanthemum, wchodzi w walkę ze sprzymierzeńcem – Przybłędą spod mostu, Underbridge Stray.
+*Chryzantema, Chrysanthemum, wchodzi w walkę ze sprzymierzeńcem – Przybłędą spod mostu, Underbridge Stray.
 Chryzantema posiada potencjał 5 i ma 4 znaczniki krwi. Sprzymierzeniec ma 2 życia.
 Po ustaleniu zasięgu Chryzantema kradnie ciosem 2 znaczniki krwi. Sprzymierzeniec
 zadaje ciosem 1 obrażenie. Podczas rozpatrywania ciosów 2 znaczniki życia
@@ -1909,13 +1906,13 @@ obrażenie, co oznacza, że zostają jej 4 znaczniki krwi.*
 
 ### **Letarg**
 
-Wampir niezdolny do zagojenia swoich obrażeń wpada w głęboki sen,
-zwany letargiem, *torpor*. Wampir w letargu jest szczególnie osłabiony i podatny
+*Wampir niezdolny do zagojenia swoich obrażeń wpada w głęboki sen,
+zwany letargiem. Wampir w letargu jest szczególnie osłabiony i podatny
 na ataki Spokrewnionych. Wampir w letargu może zostać spalony
 przez innego wampira poprzez akt diabolizmu
 (patrz [**Diabolizm**](https://www.vekn.net/rulebook#diablerie)).*
 
-Jeśli wampir nie może zagoić swoich obrażeń, zapada w letarg. Wampiry w
+Jeśli wampir nie może zagoić swoich obrażeń, zapada w letarg, *torpor*. Wampiry w
 letargu umieszczane są w obszarze obok rejonu niekontrolowanego. Wszelkie
 karty sług, sprzętu oraz inne karty pozostają na wampirze
 zapadającym w letarg.
@@ -1934,12 +1931,12 @@ wstrzymywać).
 
 ### **Diabolizm**
 
-*Popełniając diabolizm, *diablerie*, diabolista wysysa z diabolizowanego
+*Popełniając diabolizm diabolista wysysa z diabolizowanego
 krew i rośnie w siłę, oraz może przejąć cały sprzęt posiadany przez
 diabolizowanego. Społeczność wampirów potępia jednak ten akt, przez co ryzyko może
 nie być warte nagrody.*
 
-Diabolizm to akt spowodowania śmierci ostatecznej wampira poprzez
+Diabolizm, *diablerie*, to akt spowodowania śmierci ostatecznej wampira poprzez
 wypicie jego krwi. Dokonać diabolizmu może tylko gotowy wampir. Wampir
 dokonujący diabolizmu nazywany jest diabolistą. Diabolizm
 jest rozpatrywany w następujący sposób:
@@ -2584,7 +2581,7 @@ innego podwładnego. Zazwyczaj kończy się walką.
 **Blokujący podwładny, *Blocking Minion*:** Podwładny próbujący aktualnie zablokować akcję,
 lub podwładny, któremu udało się zablokować aktualną akcję.
 
-** Krew, *Blood* (także Znacznik krwi, *Blood counter*):** Znacznik reprezentujący zdolność
+**Krew, *Blood* (także Znacznik krwi, *Blood counter*):** Znacznik reprezentujący zdolność
 wampira do zagojenia swoich obrażeń oraz wykonywania pewnych czynności.
 
 **Bank krwi, *Blood Bank*:** Niewyczerpany zbiór niewykorzystywanych znaczników krwi.
@@ -2997,7 +2994,7 @@ prawa chroniące wampiry przed śmiertelnikami oraz przed sobą nawzajem.
  ![](bin/media/image145.png) Malkavian
 
 
- ![](bin/media/image146.png) Ministerstwo, *Ministry * (Wyznawcy Seta, *Followers of Set*)
+ ![](bin/media/image146.png) Ministerstwo, *Ministry* (Wyznawcy Seta, *Followers of Set*)
 
 
  ![](bin/media/image147.png) Nosferatu
@@ -3078,7 +3075,7 @@ prawa chroniące wampiry przed śmiertelnikami oraz przed sobą nawzajem.
  ![](bin/media/image169.png) Koszt z puli, *Pool Cost*
 
 
-# [**Załącznik Zasady natchnionych**](https://www.vekn.net/rulebook/appendix-imbued-rules)
+# [**Załącznik: Zasady natchnionych**](https://www.vekn.net/rulebook/appendix-imbued-rules)
 
 ![cardnor1_tn](bin/media/image170.jpeg)
 
