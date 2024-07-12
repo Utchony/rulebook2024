@@ -1226,7 +1226,7 @@ Matuzalema lub obiera za cel kartę kontrolowaną przez działającego Matuzalem
 to próby zablokowania mogą podejmować podwładni ofiary i drapieżcy.
 
 - Jeśli **próba zablokowania jest nieudana**, *unsuccesful*, można podjąć ponowną próbę.
-- Jeśli **próba zablokowania jest udana**, *succesful*,  blokujący podwładny przekręca się
+- Jeśli **próba zablokowania jest udana**, *successful*, blokujący podwładny przekręca się
 i wchodzi w walkę z działającym podwładnym.
 
 **3.** Jeśli żadna próba nie jest udana i nie są podejmowane dalsze próby zablokowania,
@@ -2844,7 +2844,7 @@ krwi. Powszechnie nazywany jest diabolizmem.
 **Anarchiści:** Wampirza sekta, funkcjonująca poza Camarillą,
 sprzeciwiająca się jej władzy.
 
-**Przedpotopowiec::** Pradawny wampir, prawnuk Kaina. Większość
+**Przedpotopowiec:** Pradawny wampir, prawnuk Kaina. Większość
 głównych klanów Camarilli stworzyli Przedpotopowcy.
 
 **Archont:** Potężny wampir podróżujący między miastami w
