@@ -2310,24 +2310,24 @@ Cechy to atrybuty podwładnych, które mogą wchodzić w interakcję z innymi ef
 w rozgrywce. Cechy te mogą umożliwiać podwładnym zagrywanie pewnych kart,
 wymagających określonych cech lub oddziaływanie ze strony pewnych efektów podczas rozgrywki.
 
-**Czarna Ręka:** Cecha ta umożliwia podwładnym zagrywanie i używanie kart
-wymagających podwładnych z Czarnej Ręki, *Black Hand*.
+**Czarna Ręka, *Black Hand*:** Cecha ta umożliwia podwładnym zagrywanie i używanie kart
+wymagających podwładnych z Czarnej Ręki.
 
-**Klątwa krwi:** Wampir z Klątwą krwi, *Blood Cursed*, nie może popełnić diabolizmu.
+**Klątwa krwi, *Blood Cursed*:** Wampir z Klątwą krwi, nie może popełnić diabolizmu.
 
-**Krąg:** Każdy Brat Krwi ma przypisany określony krąg, *circle*. Wampir
+**Krąg, *Circle*:** Każdy Brat Krwi ma przypisany określony krąg. Wampir
 Bez określonego kręgu należy do swojego własnego kręgu. Wewnętrzny Krąg
 nie jest kręgiem Braci Krwi.
 
-**Infernalny:** Infernalny podwładny, *Infernal*, nie jest standardowo odkręcany w fazie
+**Infernalny, *Infernal*:** Infernalny podwładny, nie jest standardowo odkręcany w fazie
 odkręcania. Kontrolujący tego infernalnego podwładnego może w swojej fazie odkręcania spalić 1 znacznik puli,
 aby go odkręcić.
 
-**Lot:** Cecha ta umożliwia podwładnemu zagrywanie i używanie kart wymagających
-Lotu, *Flight*.
+**Lot, *Flight*:** Cecha ta umożliwia podwładnemu zagrywanie i używanie kart wymagających
+Lotu.
 
-**Czerwona Lista:** Każdy Matuzalem może wykorzystać akcję fazy mistrza, aby naznaczyć
-podwładnego z Czerwonej Listy, *Red List*, na czas aktualnej tury. Każdy kontrolowany przez niego gotowy wampir może
+**Czerwona Lista, *Red List*:** Każdy Matuzalem może wykorzystać akcję fazy mistrza, aby naznaczyć
+podwładnego z Czerwonej Listy na czas aktualnej tury. Każdy kontrolowany przez niego gotowy wampir może
 wejść w walkę z naznaczonym podwładnym z Czerwonej Listy poprzez akcję z +1 krycia
 kosztującą 1 znacznik krwi. Każdy wampir może wykonać tę akcję tylko raz na
 turę. Jeśli wampir spali podwładnego z Czerwonej Listy w walce lub poprzez akcję
@@ -2338,12 +2338,12 @@ rozmiaru ręki. Inne, nieprzyznane jeszcze trofea znajdujące się w grze, równ
 przeniesione na tego wampira, zależnie od decyzji kontrolujących poszczególne trofea.
 Ma to miejsce przed zwołaniem ewentualnego referendum w sprawie krwawych łowów.
 
-**Rzadki:** Matuzalem przenoszący rzadkiego wampira, *scarce*, ze swojego
+**Rzadki, *Scarce*:** Matuzalem przenoszący rzadkiego wampira ze swojego
 rejonu niekontrolowanego do swojego rejonu gotowych w swojej fazie wpływów,
 musi spalić 3 znaczniki puli za każdego kontrolowanego już przez siebie wampira z tego
 samego klanu.
 
-**Niewolnik:** Niektórzy podwładni określani są jako niewolnicy, *slave*, określonego klanu. Niewolnicy
+**Niewolnik, *slave*:** Niektórzy podwładni określani są jako niewolnicy określonego klanu. Niewolnicy
 nie mogą wykonywać akcji ukierunkowanych, jeśli kontrolujący ich nie
 kontroluje gotowego członka określonego klanu. Ponadto, jeśli członek
 określonego klanu kontrolowany przez tego samego Matuzalema zostanie zablokowany,
@@ -2351,7 +2351,7 @@ to kontrolujący go może przekręcić niewolnika, aby anulować walkę, odkręc
 działającego wampira i zamiast tego wejść tym niewolnikiem w walkę z blokującym
 podwładnym.
 
-**Jałowy:** Jałowe wampiry, *sterile*, nie mogą wykonywać akcji wprowadzających nowe 
+**Jałowy, *Sterile*:** Jałowe wampiry nie mogą wykonywać akcji wprowadzających nowe 
 wampiry do gry.
 
 Mogą istnieć również inne Cechy umożliwiające wampirom i podwładnym zagrywanie kart.
